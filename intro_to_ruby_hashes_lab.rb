@@ -33,8 +33,7 @@ monopoly = {
 	      four_pieces_owned: 200
 	    },
 	    names: {
-	      reading_railroad: {},
-	      
+	      reading_railroad: {}
 	    },
 	  }
 	}
